@@ -1,0 +1,32 @@
+AndroidManifest.xml:15:        android:theme="@style/AppTheme" >
+bin/AndroidManifest.xml:15:        android:theme="@style/AppTheme" >
+Binary file bin/classes.dex matches
+Binary file bin/classes/com/example/myfirstapp/R$style.class matches
+Binary file bin/resources.ap_ matches
+Binary file bin/MyFirstApp.apk matches
+gen/com/example/myfirstapp/R.java:48:        Base application theme, dependent on API level. This theme is replaced
+gen/com/example/myfirstapp/R.java:49:        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+gen/com/example/myfirstapp/R.java:52:            Theme customizations available in newer API levels can go in
+gen/com/example/myfirstapp/R.java:57:        Base application theme for API 11+. This theme completely replaces
+gen/com/example/myfirstapp/R.java:58:        AppBaseTheme from res/values/styles.xml on API 11+ devices.
+gen/com/example/myfirstapp/R.java:60: API 11 theme customizations can go here. 
+gen/com/example/myfirstapp/R.java:62:        Base application theme for API 14+. This theme completely replaces
+gen/com/example/myfirstapp/R.java:63:        AppBaseTheme from BOTH res/values/styles.xml and
+gen/com/example/myfirstapp/R.java:66: API 14 theme customizations can go here. 
+gen/com/example/myfirstapp/R.java:68:        public static final int AppBaseTheme=0x7f060000;
+gen/com/example/myfirstapp/R.java:69:        /**  Application theme. 
+gen/com/example/myfirstapp/R.java:72:        public static final int AppTheme=0x7f060001;
+res/values-v11/styles.xml:4:        Base application theme for API 11+. This theme completely replaces
+res/values-v11/styles.xml:5:        AppBaseTheme from res/values/styles.xml on API 11+ devices.
+res/values-v11/styles.xml:7:    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+res/values-v11/styles.xml:8:        <!-- API 11 theme customizations can go here. -->
+res/values/styles.xml:4:        Base application theme, dependent on API level. This theme is replaced
+res/values/styles.xml:5:        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+res/values/styles.xml:7:    <style name="AppBaseTheme" parent="android:Theme.Light">
+res/values/styles.xml:9:            Theme customizations available in newer API levels can go in
+res/values/styles.xml:15:    <!-- Application theme. -->
+res/values/styles.xml:16:    <style name="AppTheme" parent="AppBaseTheme">
+res/values-v14/styles.xml:4:        Base application theme for API 14+. This theme completely replaces
+res/values-v14/styles.xml:5:        AppBaseTheme from BOTH res/values/styles.xml and
+res/values-v14/styles.xml:8:    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+res/values-v14/styles.xml:9:        <!-- API 14 theme customizations can go here. -->
